@@ -1,3 +1,4 @@
+# Vista de Ejecución
 
 ## Escenario: Registrar Producto
 
